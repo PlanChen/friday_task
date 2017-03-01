@@ -3,22 +3,22 @@
 
 config_b2b = {
 	'user':'sqlbidev',
-	'password':'bi@2015',
-	'host':'10.70.72.80',
+	'password':'xxx',
+	'host':'xxx',
 	'database':'ODS_B2B'
 }
 
 config_b2c = {
 	'user':'sqlbidev',
-	'password':'bi@2015',
-	'host':'10.70.72.80',
+	'password':'xxx',
+	'host':'xxx',
 	'database':'ODS_B2C'
 }
 
 config_o2o = {
 	'user':'sqlbidev',
-	'password':'bi@2015',
-	'host':'10.70.72.80',
+	'password':'xxx',
+	'host':'xxx',
 	'database':'ODS_O2O'
 }
 
